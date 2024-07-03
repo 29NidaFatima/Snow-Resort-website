@@ -158,7 +158,7 @@
   
 .home{
   min-height: 95vh;
-  background: url(images/home.jpg) no-repeat;
+  background: url(home.jpg) no-repeat;
   background-position: center !important;
   background-size: cover !important;
   position: relative;
